@@ -26,8 +26,10 @@
 <img src="https://camo.githubusercontent.com/edd471dded190e629043ad678016398ec885ebfefd103f9c64dadfd9b43e316d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e67696e782d3030393633393f7374796c653d666c6174266c6f676f3d4e67696e78266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Nginx-009639?style=flat&amp;logo=Nginx&amp;logoColor=white" style="max-width: 100%;">
 </div>
  
+<div align="center" dir="auto">
+	<p dir="auto">🛠 Tools 🛠</p>
+</div>
 
-🛠 Tools 🛠
 
   
  
