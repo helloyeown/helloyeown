@@ -28,7 +28,7 @@
 
 <br/>
 <div align="center" dir="auto">
-	<p dir="auto">🛠 Tools 😎🛠</p>
+	<p dir="auto">🛠 Tools 🛠</p>
 </div>
 
 
