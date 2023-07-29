@@ -37,14 +37,12 @@
 <br/>
 <img src="https://camo.githubusercontent.com/81cc0208249094cae38e47266c725f8013a8f8cfd4e9e8153dc7f0fc10be4470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53564e2d3830394343393f7374796c653d666c6174266c6f676f3d53756276657273696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SVN-809CC9?style=flat&amp;logo=Subversion&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/779ecf5e6059fd906fca2099015186945f91679f22da6bf05f37f52e69e86e8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;">
-
 </div>
 
-
-  
- 
-
-
-📧 Email 📧
+<div align="center" dir="auto">
+  <h3 dir="auto"><a id="user-content--email-" class="anchor" aria-hidden="true" href="#-email-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Email <g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji></h3>
+  <a href="mailto:whtkdgml3627@naver.com"><img src="https://camo.githubusercontent.com/cfaf19f8f2cb363143e3538bc8ab4e2def6ae9cb644ebdfa6431dfdd978e3ab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e617665722d3033433735413f7374796c653d666c6174266c6f676f3d6e61766572266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7768746b64676d6c33363237406e617665722e636f6d" data-canonical-src="https://img.shields.io/badge/Naver-03C75A?style=flat&amp;logo=naver&amp;logoColor=white&amp;link=mailto:whtkdgml3627@naver.com" style="max-width: 100%;"></a>
+  <a href="mailto:whtkdgml36271@gmail.com"><img src="https://camo.githubusercontent.com/784feb4aa3e228e1bb333f474dfab923dd7c6a1b415ac0b80f1f0de4daac056c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7768746b64676d6c333632373140676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:whtkdgml36271@gmail.com" style="max-width: 100%;"></a>
+</div>
  
 
