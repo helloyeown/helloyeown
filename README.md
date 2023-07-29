@@ -52,7 +52,10 @@
   <a href="mailto:toquasimodo@naver.com"><img src="https://camo.githubusercontent.com/cfaf19f8f2cb363143e3538bc8ab4e2def6ae9cb644ebdfa6431dfdd978e3ab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e617665722d3033433735413f7374796c653d666c6174266c6f676f3d6e61766572266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7768746b64676d6c33363237406e617665722e636f6d" data-canonical-src="https://img.shields.io/badge/Naver-03C75A?style=flat&amp;logo=naver&amp;logoColor=white&amp;link=mailto:toquasimodo@naver.com" style="max-width: 100%;"></a>
   <a href="mailto:toquasimodox@gmail.com"><img src="https://camo.githubusercontent.com/784feb4aa3e228e1bb333f474dfab923dd7c6a1b415ac0b80f1f0de4daac056c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a7768746b64676d6c333632373140676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white&amp;link=mailto:toquasimodo@gmail.com" style="max-width: 100%;"></a>
 </div>
+<br/>
 
+<div align="center" dir="auto">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeown&theme=dark&show_icons=true)
+</div>
  
 
