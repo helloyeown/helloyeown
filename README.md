@@ -15,8 +15,9 @@
 <img src="https://camo.githubusercontent.com/97025b8809da6b40bbecd04eb20ed0a15525419900e1bfb32e20fe71cdabf40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" style="max-width: 100%;">
 </div>
    
-
-✨ Sub Stack ✨
+<div align="center" dir="auto">
+	<p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Sub Stack <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
+</div>
 
  
  
