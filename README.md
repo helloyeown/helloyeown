@@ -10,7 +10,9 @@
 <img src="https://camo.githubusercontent.com/779f9a01c244fb737d351d3256288537428012c3cc755e70e7c5663afc1b7c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=MySQL&amp;logoColor=white" style="max-width: 100%;">
 <br/>
 <img src="https://camo.githubusercontent.com/56ed124513b0ae7b3798b61c37b5c526651c49a829b100d3392fbde1728dae82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7962617469732d3030303030303f7374796c653d666c6174266c6f676f3d466c75656e7464266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Mybatis-000000?style=flat&amp;logo=Fluentd&amp;logoColor=white" style="max-width: 100%;">
-	
+<img src="https://camo.githubusercontent.com/1f26ad7aca5a6a670a71ec4c6bb3e3a98b9e2afde7a45ae25027147aed99f5f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468796d656c6561662d3030354630463f7374796c653d666c6174266c6f676f3d7468796d656c656166266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&amp;logo=thymeleaf&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/835b9feec81fd42c824d27ac734bfcabb61fa43c4b3b166fe89adf5bd06b079c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/97025b8809da6b40bbecd04eb20ed0a15525419900e1bfb32e20fe71cdabf40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" style="max-width: 100%;">
 </div>
    
 
