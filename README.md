@@ -54,10 +54,6 @@
 </div>
 <br/>
 
-<div align="center" dir="auto">
-<p dir=:"auto">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeown&theme=dark&show_icons=true)
-</p>
-</div>
  
 
