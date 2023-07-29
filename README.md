@@ -30,6 +30,15 @@
 <div align="center" dir="auto">
 	<p dir="auto">🛠 Tools 🛠</p>
 </div>
+<div align="center" dir="auto">
+<img src="https://camo.githubusercontent.com/ab5edbdff7e2f35f3ede83521e9e7bb7eb67a3bdcfe4eee06ed3fa49a7efc3d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652532304944452d3243323235353f7374796c653d666c6174266c6f676f3d45636c69707365494445266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&amp;logo=EclipseIDE&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/3507bbe1e8b3044cb22a9cfdeca259a713d25e1c7c15fce08111ebc3800d1c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c696a253230494445412d3030303030303f7374796c653d666c6174266c6f676f3d496e74656c6c696a49444541266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&amp;logo=IntellijIDEA&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b172a4884a45a0370618e89be4583ee6096da9ae664fd44b1c009a1a325b0e43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
+<br/>
+<img src="https://camo.githubusercontent.com/81cc0208249094cae38e47266c725f8013a8f8cfd4e9e8153dc7f0fc10be4470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53564e2d3830394343393f7374796c653d666c6174266c6f676f3d53756276657273696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SVN-809CC9?style=flat&amp;logo=Subversion&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/779ecf5e6059fd906fca2099015186945f91679f22da6bf05f37f52e69e86e8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;">
+
+</div>
 
 
   
