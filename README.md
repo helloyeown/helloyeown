@@ -30,7 +30,6 @@
 	<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&logo=kakao&logoColor=white" /> -->
 	<br>
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" />
 </div>
 <br>
@@ -49,8 +48,8 @@
 <br><br>
 <div align=center>
   <h3>📧 Email 📧</h3>
-  <a href="mailto:whtkdgml3627@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white&link=mailto:whtkdgml3627@naver.com"/></a>
-  <a href="mailto:whtkdgml36271@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:whtkdgml36271@gmail.com"/></a>
+  <a href="mailto:toquasimodo@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white&link=mailto:toquasimodo@naver.com"/></a>
+  <a href="mailto:toquasimodox@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:toquasimodox@gmail.com"/></a>
 </div>
 <br><br>
 <div align=center>
